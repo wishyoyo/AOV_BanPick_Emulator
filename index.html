@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>傳說對決 Ban/Pick 模擬器</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- 禁用區域 -->
+        <div class="bans-section">
+            <div class="bans blue-bans">
+                <h3>藍方禁用</h3>
+                <div class="banned-list"></div>
+            </div>
+            <div class="bans red-bans">
+                <h3>紅方禁用</h3>
+                <div class="banned-list"></div>
+            </div>
+        </div>
+
+        <!-- 主內容區 -->
+        <div class="main-content">
+            <!-- 藍方隊伍 -->
+            <div class="team blue-team">
+                <div class="player" data-position="1">藍方1樓</div>
+                <div class="player" data-position="2">藍方2樓</div>
+                <div class="player" data-position="3">藍方3樓</div>
+                <div class="player" data-position="4">藍方4樓</div>
+                <div class="player" data-position="5">藍方5樓</div>
+            </div>
+
+            <!-- 英雄池 -->
+            <div class="hero-pool">
+                <div class="filters">
+                    <button class="filter-btn active" data-role="all">全部</button>
+                    <button class="filter-btn" data-role="坦克">坦克</button>
+                    <button class="filter-btn" data-role="戰士">戰士</button>
+                    <button class="filter-btn" data-role="法師">法師</button>
+                    <button class="filter-btn" data-role="刺客">刺客</button>
+                    <button class="filter-btn" data-role="射手">射手</button>
+                    <button class="filter-btn" data-role="輔助">輔助</button>
+                </div>
+                <div class="hero-grid"></div>
+            </div>
+
+            
+
+            <!-- 紅方隊伍 -->
+            <div class="team red-team">
+                <div class="player" data-position="1">紅方1樓</div>
+                <div class="player" data-position="2">紅方2樓</div>
+                <div class="player" data-position="3">紅方3樓</div>
+                <div class="player" data-position="4">紅方4樓</div>
+                <div class="player" data-position="5">紅方5樓</div>
+            </div>
+
+            
+        </div>
+
+        <!-- 流程提示 -->
+        <div class="phase-prompt">
+            <p id="phase-text">準備開始，藍方1樓請禁用英雄</p>
+        </div>
+
+        <!-- 回上一動 -->
+        <div class="action-buttons">
+            <button id="undo-btn" class="action-btn">
+              <i class="icon">↩</i> 回上一動
+            </button>
+            <button id="reset-btn" class="action-btn">
+              <i class="icon">🔄</i> 重新開始
+            </button>
+        </div>
+    </div>
+
+    <script src="heroes.json"></script>
+    <script src="script.js"></script>
+</body>
+</html>

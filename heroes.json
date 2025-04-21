@@ -1,0 +1,740 @@
+[
+  {
+    "id": 1,
+    "name": "塔拉",
+    "occupation": ["坦克", "戰士"],
+    "image": "塔拉.jpg"
+  },
+  {
+    "id": 2,
+    "name": "夸克",
+    "occupation": ["輔助", "坦克"],
+    "image": "夸克.jpg"
+  },
+  {
+    "id": 3,
+    "name": "薩尼",
+    "occupation": ["坦克"],
+    "image": "薩尼.jpg"
+  },
+  {
+    "id": 4,
+    "name": "哥德爾",
+    "occupation": ["坦克", "輔助"],
+    "image": "哥德爾.jpg"
+  },
+  {
+    "id": 5,
+    "name": "諾可西",
+    "occupation": ["坦克", "戰士"],
+    "image": "諾可西.jpg"
+  },
+  {
+    "id": 6,
+    "name": "查戈納爾",
+    "occupation": ["坦克", "輔助"],
+    "image": "查戈納爾.jpg"
+  },
+  {
+    "id": 7,
+    "name": "提米",
+    "occupation": ["坦克", "輔助"],
+    "image": "提米.jpg"
+  },
+  {
+    "id": 8,
+    "name": "朗博",
+    "occupation": ["坦克", "輔助"],
+    "image": "朗博.jpg"
+  },
+  {
+    "id": 9,
+    "name": "贊尼爾",
+    "occupation": ["坦克", "輔助"],
+    "image": "贊尼爾.jpg"
+  },
+  {
+    "id": 10,
+    "name": "馬洛斯",
+    "occupation": ["坦克", "戰士"],
+    "image": "馬洛斯.jpg"
+  },
+  {
+    "id": 11,
+    "name": "美娜",
+    "occupation": ["坦克", "輔助"],
+    "image": "美娜.jpg"
+  },
+  {
+    "id": 12,
+    "name": "麥克思",
+    "occupation": ["坦克"],
+    "image": "麥克思.jpg"
+  },
+  {
+    "id": 13,
+    "name": "夜姬",
+    "occupation": ["坦克", "戰士"],
+    "image": "夜姬.jpg"
+  },
+  {
+    "id": 14,
+    "name": "艾瑞",
+    "occupation": ["坦克", "輔助"],
+    "image": "艾瑞.jpg"
+  },
+  {
+    "id": 15,
+    "name": "伯頓",
+    "occupation": ["坦克", "輔助"],
+    "image": "伯頓.jpg"
+  },
+  {
+    "id": 16,
+    "name": "牛魔王",
+    "occupation": ["坦克", "輔助"],
+    "image": "牛魔王.jpg"
+  },
+  {
+    "id": 17,
+    "name": "歐米茄",
+    "occupation": ["坦克", "輔助"],
+    "image": "歐米茄.jpg"
+  },
+  {
+    "id": 18,
+    "name": "克萊斯",
+    "occupation": ["坦克", "輔助"],
+    "image": "克萊斯.jpg"
+  },
+  {
+    "id": 19,
+    "name": "阿杜恩",
+    "occupation": ["坦克", "戰士"],
+    "image": "阿杜恩.jpg"
+  },
+  {
+    "id": 20,
+    "name": "古木",
+    "occupation": ["坦克"],
+    "image": "古木.jpg"
+  },
+  {
+    "id": 21,
+    "name": "司科德",
+    "occupation": ["坦克", "戰士"],
+    "image": "司科德.jpg"
+  },
+  {
+    "id": 22,
+    "name": "渥馬爾",
+    "occupation": ["坦克"],
+    "image": "渥馬爾.jpg"
+  },
+  {
+    "id": 23,
+    "name": "狂鐵",
+    "occupation": ["坦克", "戰士"],
+    "image": "狂鐵.jpg"
+  },
+  {
+    "id": 24,
+    "name": "維羅",
+    "occupation": ["坦克", "戰士"],
+    "image": "維羅.jpg"
+  },
+  {
+    "id": 25,
+    "name": "阿塔",
+    "occupation": ["坦克"],
+    "image": "阿塔.jpg"
+  },
+  {
+    "id": 26,
+    "name": "緋淚",
+    "occupation": ["戰士"],
+    "image": "緋淚.jpg"
+  },
+  {
+    "id": 27,
+    "name": "霧己",
+    "occupation": ["戰士"],
+    "image": "霧己.jpg"
+  },
+  {
+    "id": 28,
+    "name": "佛洛倫",
+    "occupation": ["戰士"],
+    "image": "佛洛倫.jpg"
+  },
+  {
+    "id": 29,
+    "name": "趙雲",
+    "occupation": ["戰士"],
+    "image": "趙雲.jpg"
+  },
+  {
+    "id": 30,
+    "name": "瑞克",
+    "occupation": ["戰士"],
+    "image": "瑞克.jpg"
+  },
+  {
+    "id": 31,
+    "name": "夜叉",
+    "occupation": ["戰士"],
+    "image": "夜叉.jpg"
+  },
+  {
+    "id": 32,
+    "name": "刀鋒寶貝",
+    "occupation": ["戰士", "刺客"],
+    "image": "刀鋒寶貝.jpg"
+  },
+  {
+    "id": 33,
+    "name": "愛里",
+    "occupation": ["戰士", "刺客"],
+    "image": "愛里.jpg"
+  },
+  {
+    "id": 34,
+    "name": "龍馬",
+    "occupation": ["戰士", "刺客"],
+    "image": "龍馬.jpg"
+  },
+  {
+    "id": 35,
+    "name": "艾翠絲",
+    "occupation": ["戰士", "刺客"],
+    "image": "艾翠絲.jpg"
+  },
+  {
+    "id": 36,
+    "name": "貝揚",
+    "occupation": ["戰士"],
+    "image": "貝揚.jpg"
+  },
+  {
+    "id": 37,
+    "name": "亞連",
+    "occupation": ["戰士"],
+    "image": "亞連.jpg"
+  },
+  {
+    "id": 38,
+    "name": "夏洛特",
+    "occupation": ["戰士"],
+    "image": "夏洛特.jpg"
+  },
+  {
+    "id": 39,
+    "name": "青硯",
+    "occupation": ["戰士", "刺客"],
+    "image": "青硯.jpg"
+  },
+  {
+    "id": 40,
+    "name": "呂布",
+    "occupation": ["戰士"],
+    "image": "呂布.jpg"
+  },
+  {
+    "id": 41,
+    "name": "瑟斐斯",
+    "occupation": ["戰士", "刺客"],
+    "image": "瑟斐斯.jpg"
+  },
+  {
+    "id": 42,
+    "name": "祖卡",
+    "occupation": ["戰士", "刺客"],
+    "image": "祖卡.jpg"
+  },
+  {
+    "id": 43,
+    "name": "司空震",
+    "occupation": ["戰士", "法師"],
+    "image": "司空震.jpg"
+  },
+  {
+    "id": 44,
+    "name": "筱清",
+    "occupation": ["戰士", "刺客"],
+    "image": "筱清.jpg"
+  },
+  {
+    "id": 45,
+    "name": "比洛爾",
+    "occupation": ["戰士", "刺客"],
+    "image": "比洛爾.jpg"
+  },
+  {
+    "id": 46,
+    "name": "超人",
+    "occupation": ["戰士"],
+    "image": "超人.jpg"
+  },
+  {
+    "id": 47,
+    "name": "葉娜",
+    "occupation": ["戰士"],
+    "image": "葉娜.jpg"
+  },
+  {
+    "id": 48,
+    "name": "埃羅",
+    "occupation": ["戰士"],
+    "image": "埃羅.jpg"
+  },
+  {
+    "id": 49,
+    "name": "莫托斯",
+    "occupation": ["戰士"],
+    "image": "莫托斯.jpg"
+  },
+  {
+    "id": 50,
+    "name": "安格列",
+    "occupation": ["戰士", "刺客"],
+    "image": "安格列.jpg"
+  },
+  {
+    "id": 51,
+    "name": "艾蜜莉",
+    "occupation": ["戰士"],
+    "image": "艾蜜莉.jpg"
+  },
+  {
+    "id": 52,
+    "name": "海諾",
+    "occupation": ["戰士", "法師"],
+    "image": "海諾.jpg"
+  },
+  {
+    "id": 53,
+    "name": "洛克",
+    "occupation": ["戰士"],
+    "image": "洛克.jpg"
+  },
+  {
+    "id": 54,
+    "name": "凱格路士",
+    "occupation": ["戰士"],
+    "image": "凱格路士.jpg"
+  },
+  {
+    "id": 55,
+    "name": "神力女超人",
+    "occupation": ["戰士"],
+    "image": "神力女超人.jpg"
+  },
+  {
+    "id": 56,
+    "name": "銀晝",
+    "occupation": ["戰士"],
+    "image": "銀晝.jpg"
+  },
+  {
+    "id": 57,
+    "name": "颯枷",
+    "occupation": ["刺客", "法師"],
+    "image": "颯枷.jpg"
+  },
+  {
+    "id": 58,
+    "name": "悟空",
+    "occupation": ["刺客"],
+    "image": "悟空.jpg"
+  },
+  {
+    "id": 59,
+    "name": "莉莉安",
+    "occupation": ["刺客", "法師"],
+    "image": "莉莉安.jpg"
+  },
+  {
+    "id": 60,
+    "name": "納克羅斯",
+    "occupation": ["刺客"],
+    "image": "納克羅斯.jpg"
+  },
+  {
+    "id": 61,
+    "name": "星葵",
+    "occupation": ["刺客"],
+    "image": "星葵.jpg"
+  },
+  {
+    "id": 62,
+    "name": "齊爾",
+    "occupation": ["刺客"],
+    "image": "齊爾.jpg"
+  },
+  {
+    "id": 63,
+    "name": "潘因",
+    "occupation": ["刺客"],
+    "image": "潘因.jpg"
+  },
+  {
+    "id": 64,
+    "name": "蘇離",
+    "occupation": ["刺客"],
+    "image": "蘇離.jpg"
+  },
+  {
+    "id": 65,
+    "name": "奎倫",
+    "occupation": ["刺客"],
+    "image": "奎倫.jpg"
+  },
+  {
+    "id": 66,
+    "name": "閃電俠",
+    "occupation": ["刺客"],
+    "image": "閃電俠.jpg"
+  },
+  {
+    "id": 67,
+    "name": "布萊特",
+    "occupation": ["刺客"],
+    "image": "布萊特.jpg"
+  },
+  {
+    "id": 68,
+    "name": "綺蘿",
+    "occupation": ["刺客"],
+    "image": "綺蘿.jpg"
+  },
+  {
+    "id": 69,
+    "name": "凱恩",
+    "occupation": ["刺客"],
+    "image": "凱恩.jpg"
+  },
+  {
+    "id": 70,
+    "name": "莫拉",
+    "occupation": ["刺客"],
+    "image": "莫拉.jpg"
+  },
+  {
+    "id": 71,
+    "name": "拉茲",
+    "occupation": ["刺客", "法師"],
+    "image": "拉茲.jpg"
+  },
+  {
+    "id": 72,
+    "name": "科里納卡",
+    "occupation": ["刺客"],
+    "image": "科里納卡.jpg"
+  },
+  {
+    "id": 73,
+    "name": "洛里昂",
+    "occupation": ["法師"],
+    "image": "洛里昂.jpg"
+  },
+  {
+    "id": 74,
+    "name": "圖倫",
+    "occupation": ["法師"],
+    "image": "圖倫.jpg"
+  },
+  {
+    "id": 75,
+    "name": "克里西",
+    "occupation": ["法師"],
+    "image": "克里西.jpg"
+  },
+  {
+    "id": 76,
+    "name": "瀾",
+    "occupation": ["法師", "輔助"],
+    "image": "瀾.jpg"
+  },
+  {
+    "id": 77,
+    "name": "安奈特",
+    "occupation": ["法師", "輔助"],
+    "image": "安奈特.jpg"
+  },
+  {
+    "id": 78,
+    "name": "瑪迦",
+    "occupation": ["法師"],
+    "image": "瑪迦.jpg"
+  },
+  {
+    "id": 79,
+    "name": "卡莉",
+    "occupation": ["法師"],
+    "image": "卡莉.jpg"
+  },
+  {
+    "id": 80,
+    "name": "薇菈",
+    "occupation": ["法師"],
+    "image": "薇菈.jpg"
+  },
+  {
+    "id": 81,
+    "name": "娜塔亞",
+    "occupation": ["法師"],
+    "image": "娜塔亞.jpg"
+  },
+  {
+    "id": 82,
+    "name": "穆加爵",
+    "occupation": ["法師"],
+    "image": "穆加爵.jpg"
+  },
+  {
+    "id": 83,
+    "name": "蘿兒",
+    "occupation": ["法師"],
+    "image": "蘿兒.jpg"
+  },
+  {
+    "id": 84,
+    "name": "令月",
+    "occupation": ["法師"],
+    "image": "令月.jpg"
+  },
+  {
+    "id": 85,
+    "name": "金納",
+    "occupation": ["法師"],
+    "image": "金納.jpg"
+  },
+  {
+    "id": 86,
+    "name": "貂蟬",
+    "occupation": ["法師"],
+    "image": "貂蟬.jpg"
+  },
+  {
+    "id": 87,
+    "name": "阿萊斯特",
+    "occupation": ["法師"],
+    "image": "阿萊斯特.jpg"
+  },
+  {
+    "id": 88,
+    "name": "阿茲卡",
+    "occupation": ["法師"],
+    "image": "阿茲卡.jpg"
+  },
+  {
+    "id": 89,
+    "name": "依夏",
+    "occupation": ["法師", "輔助"],
+    "image": "依夏.jpg"
+  },
+  {
+    "id": 90,
+    "name": "伊耿士",
+    "occupation": ["法師"],
+    "image": "伊耿士.jpg"
+  },
+  {
+    "id": 91,
+    "name": "伊格",
+    "occupation": ["法師"],
+    "image": "伊格.jpg"
+  },
+  {
+    "id": 92,
+    "name": "邦尼",
+    "occupation": ["法師"],
+    "image": "邦尼.jpg"
+  },
+  {
+    "id": 93,
+    "name": "狄拉克",
+    "occupation": ["法師"],
+    "image": "狄拉克.jpg"
+  },
+  {
+    "id": 94,
+    "name": "普雷塔",
+    "occupation": ["法師"],
+    "image": "普雷塔.jpg"
+  },
+  {
+    "id": 95,
+    "name": "盧密亞",
+    "occupation": ["法師"],
+    "image": "盧密亞.jpg"
+  },
+  {
+    "id": 96,
+    "name": "達爾西",
+    "occupation": ["法師"],
+    "image": "達爾西.jpg"
+  },
+  {
+    "id": 97,
+    "name": "蘇",
+    "occupation": ["射手"],
+    "image": "蘇.jpg"
+  },
+  {
+    "id": 98,
+    "name": "亥犽",
+    "occupation": ["射手"],
+    "image": "亥犽.jpg"
+  },
+  {
+    "id": 99,
+    "name": "勇",
+    "occupation": ["射手"],
+    "image": "勇.jpg"
+  },
+  {
+    "id": 100,
+    "name": "凡恩",
+    "occupation": ["射手"],
+    "image": "凡恩.jpg"
+  },
+  {
+    "id": 101,
+    "name": "索文",
+    "occupation": ["射手"],
+    "image": "索文.jpg"
+  },
+  {
+    "id": 102,
+    "name": "拉維爾",
+    "occupation": ["射手"],
+    "image": "拉維爾.jpg"
+  },
+  {
+    "id": 103,
+    "name": "特爾安娜斯",
+    "occupation": ["射手"],
+    "image": "特爾安娜斯.jpg"
+  },
+  {
+    "id": 104,
+    "name": "堇",
+    "occupation": ["射手"],
+    "image": "堇.jpg"
+  },
+  {
+    "id": 105,
+    "name": "森圖爾特",
+    "occupation": ["射手"],
+    "image": "森圖爾特.jpg"
+  },
+  {
+    "id": 106,
+    "name": "琳蒂",
+    "occupation": ["射手"],
+    "image": "琳蒂.jpg"
+  },
+  {
+    "id": 107,
+    "name": "艾琳",
+    "occupation": ["射手"],
+    "image": "艾琳.jpg"
+  },
+  {
+    "id": 108,
+    "name": "卡芬妮",
+    "occupation": ["射手"],
+    "image": "卡芬妮.jpg"
+  },
+  {
+    "id": 109,
+    "name": "菲尼克",
+    "occupation": ["射手"],
+    "image": "菲尼克.jpg"
+  },
+  {
+    "id": 110,
+    "name": "緹莉",
+    "occupation": ["射手"],
+    "image": "緹莉.jpg"
+  },
+  {
+    "id": 111,
+    "name": "蘭鐸",
+    "occupation": ["射手"],
+    "image": "蘭鐸.jpg"
+  },
+  {
+    "id": 112,
+    "name": "史蘭茲",
+    "occupation": ["射手"],
+    "image": "史蘭茲.jpg"
+  },
+  {
+    "id": 113,
+    "name": "摩恩",
+    "occupation": ["射手"],
+    "image": "摩恩.jpg"
+  },
+  {
+    "id": 114,
+    "name": "靈靈",
+    "occupation": ["射手"],
+    "image": "靈靈.jpg"
+  },
+  {
+    "id": 115,
+    "name": "希路卡",
+    "occupation": ["射手"],
+    "image": "希路卡.jpg"
+  },
+  {
+    "id": 116,
+    "name": "卡瑞茲",
+    "occupation": ["輔助"],
+    "image": "卡瑞茲.jpg"
+  },
+  {
+    "id": 117,
+    "name": "明世隱",
+    "occupation": ["輔助"],
+    "image": "明世隱.jpg"
+  },
+  {
+    "id": 118,
+    "name": "海倫",
+    "occupation": ["輔助"],
+    "image": "海倫.jpg"
+  },
+  {
+    "id": 119,
+    "name": "芽芽",
+    "occupation": ["輔助"],
+    "image": "芽芽.jpg"
+  },
+  {
+    "id": 120,
+    "name": "若伊",
+    "occupation": ["輔助"],
+    "image": "若伊.jpg"
+  },
+  {
+    "id": 121,
+    "name": "朵莉亞",
+    "occupation": ["輔助"],
+    "image": "朵莉亞.jpg"
+  },
+  {
+    "id": 122,
+    "name": "愛麗絲",
+    "occupation": ["輔助"],
+    "image": "愛麗絲.jpg"
+  },
+  {
+    "id": 123,
+    "name": "皮皮",
+    "occupation": ["輔助"],
+    "image": "皮皮.jpg"
+  }
+]
